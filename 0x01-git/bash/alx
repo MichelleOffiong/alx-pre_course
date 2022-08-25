@@ -1,2 +1,2 @@
-#bin//bash
-ALX School is so coolecho '#bin//bash' > alx
+#!/bin/bash
+ALX School
